@@ -21,4 +21,4 @@ A personal learning repository organized with folders and tags for easy navigati
 
 10. [Docker](/others/docker.md) - Docker is a platform for developing, shipping, and running applications in containers. Containers are lightweight, standalone, and executable packages that include everything needed to run a piece of software: code, runtime, system tools, libraries, and settings. This ensures that applications run consistently across different computing environments.
 
-11. [Istio] (/others/istio.md) - A service mesh is an infrastructure layer that manages service-to-service communication in a microservices architecture. It provides traffic management, security, and observability without requiring changes to application code.
+11. [Istio](/others/istio.md) - A service mesh is an infrastructure layer that manages service-to-service communication in a microservices architecture. It provides traffic management, security, and observability without requiring changes to application code.
