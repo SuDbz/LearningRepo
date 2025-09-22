@@ -113,4 +113,5 @@ consumer.commitSync();
 - [Message queue (kmq)](https://www.youtube.com/watch?v=-As92HV0O4E)
 - [Kafka Topics, Partitions and Offsets Explained](https://www.youtube.com/watch?v=_q1IjK5jjyU)
 - [Out of Order Consumer Offset Commit in Kafka](https://www.youtube.com/watch?v=cfj3vlkvE4Q)
+- [Cluster behavior](/kafka/kafka-cluster-behavior.md)
 - [Java Concurrency Interview Question: Multi-threaded Message Queue like Kafka, SQS, RabbitMQ](https://www.youtube.com/watch?v=4BEzgPlLKTo)

@@ -18,3 +18,7 @@ A personal learning repository organized with folders and tags for easy navigati
 8. [RKE2](/others/rke2.md) - (Rancher Kubernetes Engine 2), also known as **RKE Government**, is Rancher's next-generation, enterprise-ready Kubernetes distribution designed for production workloads with enhanced security and compliance features
 
 9. [Swagger 2 and proto](/others/swagger-proto.md) - This guide provides a comprehensive walkthrough for generating a Swagger 2.0 (OpenAPI) specification from Protocol Buffers (protobuf) files. It is designed for beginners and advanced users, with detailed examples, configuration options, and troubleshooting tips.
+
+10. [Docker](/others/docker.md) - Docker is a platform for developing, shipping, and running applications in containers. Containers are lightweight, standalone, and executable packages that include everything needed to run a piece of software: code, runtime, system tools, libraries, and settings. This ensures that applications run consistently across different computing environments.
+
+11. [Istio] (/others/istio.md) - A service mesh is an infrastructure layer that manages service-to-service communication in a microservices architecture. It provides traffic management, security, and observability without requiring changes to application code.
